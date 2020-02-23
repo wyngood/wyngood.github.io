@@ -21,7 +21,7 @@ CCTV4k,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 江苏卫视,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000295603.m3u8
 北京卫视,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000272103.m3u8
 东方卫视,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000292403.m3u8
-天津卫视,http://39.135.34.157:18890/000000001000/1000000001000000831/1.m3u8?channel-id=ystenlive&Contentid=1000000001000000831&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000000831&owchid=ystenlive&owsid=1106497909461255731&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRcs9zLA6x183T6XfyDHK2Forh1U1TuZtCxYnIsImE91weAhYebQgGPi666EsPHwzC
+天津卫视,http://cctvalih5ca.v.myalicdn.com/wstv/tianjin_2/index.m3u8
 广东卫视,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000292703.m3u8
 深圳卫视,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000292203.m3u8
 山东卫视,http://120.204.20.147/tlivecloud-cdn.ysp.cctv.cn/001/2000294803.m3u8
